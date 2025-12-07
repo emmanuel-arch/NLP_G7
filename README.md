@@ -13,7 +13,11 @@
 This project develops an **NLP sentiment classification system** that automatically analyzes Twitter (X) data to identify sentiment toward Apple and Google products. Using advanced natural language processing techniques and machine learning models, we classify tweets into sentiment categories to help stakeholders understand public opinion and make data-driven decisions.
 
 **Collaborators:**
-Emmanuel Birgen
+Brian Kiprop
+Michael Mumina
+Jeremiah Bii
+Dennis Irimu
+Emmanuel Kipleting
 
 **Date:** December 2025
 
