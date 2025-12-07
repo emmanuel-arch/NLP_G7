@@ -15,7 +15,7 @@ This project develops an **NLP sentiment classification system** that automatica
 **Collaborators:**
 Emmanuel Birgen
 
-**Date:** December 2024
+**Date:** December 2025
 
 ---
 
@@ -230,20 +230,21 @@ Models are evaluated using:
 ## 📁 Project Structure
 
 ```
-PHASE 4 PROJECT/
+NLP_G7/
 │
-├── README.md                  # Project documentation (this file)
-├── requirements.txt           # Python dependencies
+├── README.md                     # Project documentation
+├── requirements.txt              # Python dependencies
 │
-├── data/                      # Data files
-│   ├── links.csv
-│   ├── movies.csv
-│   ├── ratings.csv
-│   ├── reviews.csv
-│   └── tags.csv
+├── data/                         # Raw and cleaned datasets
 │
-└── notebook/
-    └── NLP_Analysis.ipynb     # Main analysis notebook
+├── images/                       # Visualizations (plots, wordclouds, charts)
+│
+├── Documents/                    # Additional project documents
+│
+├── notebook/
+│   └── NLP_Analysis.ipynb        # Main analysis notebook
+│
+└── Power Point Group 7.pdf       # Final project presentation
 ```
 
 ---
@@ -370,5 +371,5 @@ This project is for educational purposes as part of a data science curriculum.
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 
